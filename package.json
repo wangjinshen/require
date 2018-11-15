@@ -1,0 +1,22 @@
+{
+  "name": "require",
+  "version": "1.0.0",
+  "description": "reuire     dome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjinshen/require.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjinshen/require/issues"
+  },
+  "homepage": "https://github.com/wangjinshen/require#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
