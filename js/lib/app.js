@@ -4,9 +4,9 @@ require.config({
     //paths配置路径
     paths: {
         //自定义模块可以直接调用
-       "modul":'./js/lib/modul',
-       //配置jQuery路径
-       "$":'./js/lib/jquery'
+        "modul": './js/lib/modul',
+        //配置jQuery路径
+        "$": './js/lib/jquery'
     },
     // shim 引入非遵循AMD模块 
     shim: {
